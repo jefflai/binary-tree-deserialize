@@ -1,5 +1,4 @@
 require_relative "node"
-require "byebug"
 
 class Tree
   attr_accessor :root
